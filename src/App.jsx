@@ -36,7 +36,7 @@ function App() {
     <div className='border border-black rounded-lg p-2 backdrop-blur-sm bg-white'>
       <h1>Currency convertor</h1>
     </div>
-        <div className="w-full -mt-120">
+        <div className="w-full -mt-60">
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                 <form
                     onSubmit={(e) => {
